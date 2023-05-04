@@ -90,11 +90,9 @@ We use an expense tracker for a variety of reasons, including:
 
 2. Financial awareness: By tracking our expenses, we become more aware of our financial situation and can make better decisions about our money.
 
-3. Tax preparation: Expense trackers can help us keep track of business expenses or deductions that can be claimed on our tax returns.
+3. Saving money: By understanding our spending habits and identifying areas where we can cut back, we can save more money and work towards financial goals.
 
-4. Saving money: By understanding our spending habits and identifying areas where we can cut back, we can save more money and work towards financial goals.
-
-5. Accountability: Expense trackers can help us be more accountable for our spending by providing a record of our transactions and allowing us to track our progress over time.
+4. Accountability: Expense trackers can help us be more accountable for our spending by providing a record of our transactions and allowing us to track our progress over time.
 
 ---------------
 **How we use it ?**
